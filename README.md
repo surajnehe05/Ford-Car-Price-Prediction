@@ -1,4 +1,4 @@
-# 🚗 Ford Car Price Prediction (Machine Learning Project)
+# Ford Car Price Prediction (Machine Learning Project)
 
 ## 📌 Project Overview
 This project focuses on predicting the price of Ford cars using Machine Learning regression techniques.  
@@ -41,7 +41,7 @@ This project demonstrates an end-to-end ML workflow suitable for entry-level AI/
 
 ---
 
-## 🤖 Models Used
+##  Models Used
 - Linear Regression  
 - Random Forest Regressor  
 
@@ -60,3 +60,4 @@ This project demonstrates an end-to-end ML workflow suitable for entry-level AI/
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+
